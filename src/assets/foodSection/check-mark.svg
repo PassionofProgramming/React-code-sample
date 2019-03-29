@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="31px" viewBox="0 0 41 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>check-mark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="89.4105114%" y1="93.0861503%" x2="0%" y2="14.2924107%" id="linearGradient-1">
+            <stop stop-color="#FC919D" offset="0%"></stop>
+            <stop stop-color="#FC7080" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="add-breakfast" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-689.000000, -88.000000)">
+        <g id="check-mark" transform="translate(689.000000, 88.000000)" fill="#34D09F" fill-rule="nonzero">
+            <path d="M18.5590468,29.5861118 C16.7001816,31.4712961 13.6840113,31.4712961 11.8260432,29.5861118 L1.39414892,19.0065156 C-0.464716308,17.1222411 -0.464716308,14.0633658 1.39414892,12.1790913 C3.25211702,10.293907 6.26828735,10.293907 8.12715258,12.1790913 L14.3425089,18.4815391 C14.8117109,18.9564745 15.5733791,18.9564745 16.0434783,18.4815391 L32.8728474,1.41388824 C34.7308155,-0.471296079 37.7469858,-0.471296079 39.6058511,1.41388824 C40.4985011,2.31917704 41,3.54745832 41,4.82760038 C41,6.10774243 40.4985011,7.33602371 39.6058511,8.24131251 L18.5590468,29.5861118 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="190px" height="190px" viewBox="0 0 190 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="47" cy="47" r="47"></circle>
+        <filter x="-79.8%" y="-69.1%" width="280.9%" height="280.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="10" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.896772125   0 0 0 0 0.885444964   0 0 0 0 0.97308142  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1078.000000, -3708.000000)">
+        <g id="Group-3" transform="translate(1116.000000, 3736.000000)">
+            <g id="Oval-5">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#6162FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <polygon id="+" stroke="#34D09F" fill="#FFFFFF" points="25 42.0719844 25 52.9280156 41.8639053 52.9280156 41.8639053 70 53.2248521 70 53.2248521 52.9280156 70 52.9280156 70 42.0719844 53.2248521 42.0719844 53.2248521 25 41.8639053 25 41.8639053 42.0719844"></polygon>
+        </g>
+    </g>
+</svg>

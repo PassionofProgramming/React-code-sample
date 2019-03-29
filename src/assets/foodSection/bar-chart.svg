@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="86px" viewBox="0 0 86 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>bar-chart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="9.04474776%" y1="78.6821779%" x2="90.9599522%" y2="21.3245343%" id="linearGradient-1">
+            <stop stop-color="#E835FF" offset="0%"></stop>
+            <stop stop-color="#6162FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-870.000000, -3456.000000)">
+        <g id="bar-chart" transform="translate(870.000000, 3456.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M80.9609375,75 L5.0390625,75 C2.25598828,75 0,77.4625333 0,80.5 L0,83.25 C0,84.7687333 1.12807813,86 2.51953125,86 L83.4804688,86 C84.8719219,86 86,84.7687333 86,83.25 L86,80.5 C86,77.4625333 83.7440117,75 80.9609375,75 Z" id="Shape"></path>
+            <path d="M48.4180328,30 L32.5819672,30 C31.1560328,30 30,31.1473167 30,32.5625 L30,71 L51,71 L51,32.5625 C51,31.1473167 49.8439672,30 48.4180328,30 Z" id="Shape"></path>
+            <path d="M20.625,41 L6.375,41 C5.06336667,41 4,42.1193333 4,43.5 L4,71 L23,71 L23,43.5 C23,42.1193333 21.9366333,41 20.625,41 Z" id="Shape"></path>
+            <path d="M82.5103928,21.5562275 L67.9231747,0.993916543 C66.9610208,-0.331305514 65.0388173,-0.331305514 64.0766634,0.993916543 L49.4896072,21.5562275 C48.2929039,23.2043421 49.4264779,25.5695841 51.4127819,25.5695841 L56.3849356,25.5695841 L56.3849356,71 L75.7769341,71 L75.7769341,25.5695841 L80.5872181,25.5695841 C82.5735221,25.5695841 83.7070961,23.2041738 82.5103928,21.5562275 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

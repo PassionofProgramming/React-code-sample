@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="77px" viewBox="0 0 70 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>user (2)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="9.04474776%" y1="78.6821779%" x2="90.9599522%" y2="21.3245343%" id="linearGradient-1">
+            <stop stop-color="#E835FF" offset="0%"></stop>
+            <stop stop-color="#6162FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1128.000000, -3461.000000)">
+        <g id="user-(2)" transform="translate(1128.000000, 3461.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M35,0 C23.4206,0 14,8.972 14,20 C14,31.028 23.4206,40 35,40 C46.5794,40 56,31.028 56,20 C56,8.972 46.5794,0 35,0 Z" id="Shape"></path>
+            <path d="M61.1280444,54.5096462 C55.3787111,49.0220613 47.7569556,46 39.6666667,46 L30.3333333,46 C22.2432,46 14.6212889,49.0220613 8.87195556,54.5096462 C3.15077778,59.9703255 0,67.1784104 0,74.8066038 C0,76.0179434 1.04471111,77 2.33333333,77 L67.6666667,77 C68.9552889,77 70,76.0179434 70,74.8066038 C70,67.1784104 66.8492222,59.9703255 61.1280444,54.5096462 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

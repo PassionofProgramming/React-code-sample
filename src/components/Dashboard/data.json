@@ -1,0 +1,290 @@
+// [
+//   {
+//     "DAY": "Fri",
+//     "DATE": 0,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Sat",
+//     "DATE": 1,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Sun",
+//     "DATE": 2,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Mon",
+//     "DATE": 3,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Tues",
+//     "DATE": 4,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Wed",
+//     "DATE": 5,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Thrs",
+//     "DATE": 6,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Fri",
+//     "DATE": 7,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Sat",
+//     "DATE": 8,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Sun",
+//     "DATE": 9,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Mon",
+//     "DATE": 10,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Tues",
+//     "DATE": 11,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Wed",
+//     "DATE": 12,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Thrs",
+//     "DATE": 13,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Fri",
+//     "DATE": 14,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Sat",
+//     "DATE": 15,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Sun",
+//     "DATE": 16,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Mon",
+//     "DATE": 17,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Tues",
+//     "DATE": 18,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Wed",
+//     "DATE": 19,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Thrs",
+//     "DATE": 20,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Fri",
+//     "DATE": 21,
+//     "Done": false,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Sat",
+//     "DATE": 22,
+//     "Done": true,
+//     "MARKED": true,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Sun",
+//     "DATE": 23,
+//     "Done": true,
+//     "MARKED": true,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Mon",
+//     "DATE": 24,
+//     "Done": true,
+//     "MARKED": true,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Tues",
+//     "DATE": 25,
+//     "Done": true,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Wed",
+//     "DATE": 26,
+//     "Done": true,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Thrs",
+//     "DATE": 27,
+//     "Done": true,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Fri",
+//     "DATE": 28,
+//     "Done": true,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Sat",
+//     "DATE": 29,
+//     "Done": true,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Sun",
+//     "DATE": 30,
+//     "Done": true,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   },
+//   {
+//     "DAY": "Mon",
+//     "DATE": 31,
+//     "Done": true,
+//     "MARKED": false,
+//     "EATEN": 675,
+//     "REMAINING": 785,
+//     "BURNED": 467
+//   }
+// ]

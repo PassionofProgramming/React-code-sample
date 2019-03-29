@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/netset/Documents/projects/reactNative/Qaloriee/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/netset/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/3fa64cef828aa46fa5fc23ea3b585604/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/netset/Documents/projects/reactNative/Qaloriee/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/netset/Documents/projects/reactNative/Qaloriee/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
+    }
+]

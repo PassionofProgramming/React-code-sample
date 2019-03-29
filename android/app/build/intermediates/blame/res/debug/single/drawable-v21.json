@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/netset/Documents/projects/reactNative/Qaloriee/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/netset/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/693c844f2c692f4fd2ff4ff6c6b8813d/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/netset/Documents/projects/reactNative/Qaloriee/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/netset/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/693c844f2c692f4fd2ff4ff6c6b8813d/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/netset/Documents/projects/reactNative/Qaloriee/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/netset/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/693c844f2c692f4fd2ff4ff6c6b8813d/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/netset/Documents/projects/reactNative/Qaloriee/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/netset/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/29ab95261ea9c108aff475f8690a6d71/res/drawable-v21/notification_action_background.xml"
+    }
+]
